@@ -7,8 +7,10 @@ What is in the future for Churro Loco?
 Create our App in React Native
 
 Future features:
-Order online
-Get a members card and look at your points 
-Redeem your points and get free desserts 
+1.Order online
+
+2.Get a members card and look at your points 
+
+3.Redeem your points and get free desserts 
 
 (I'll think of more I promise) :)
