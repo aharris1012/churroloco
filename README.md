@@ -7,6 +7,7 @@ What is in the future for Churro Loco?
 Create our App in React Native
 
 Future features:
+
 1.Order online
 
 2.Get a members card and look at your points 
